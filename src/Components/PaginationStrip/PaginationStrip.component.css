@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  justify-content: center;
+}
+#pagination {
+  list-style-type: none;
+  display: flex;
+}
+#pagination li {
+  margin: 0px 2px;
+  border: 1px solid cyan;
+  background-color: cyan;
+  padding: 6px;
+}
